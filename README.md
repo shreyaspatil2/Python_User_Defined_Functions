@@ -11,3 +11,8 @@ User Defined Functions 2:
 2. Reverse The Digits Of A Number And Return Its Squareroot.
 3. Creates A Small Database Of Numbers. Identify Prime, Odd, Even Numbers And Sum Of Even Numbers.
 4. Sorts An Array Using Only One While Loop.
+
+User Defined Functions :
+
+1. This Function Creates Your Resume
+2. This Function Multiplies Two Number With A SIngle Input.
