@@ -1,4 +1,4 @@
-# Python-Assignment
+# User Defined Functions
 User Defined Functions 1:
 
 1. Works as a calculator for two numbers.
