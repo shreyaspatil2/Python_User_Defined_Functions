@@ -12,7 +12,7 @@ User Defined Functions 2:
 3. Creates A Small Database Of Numbers. Identify Prime, Odd, Even Numbers And Sum Of Even Numbers.
 4. Sorts An Array Using Only One While Loop.
 
-User Defined Functions :
+User Defined Functions 3:
 
 1. This Function Creates Your Resume
 2. This Function Multiplies Two Number With A SIngle Input.
