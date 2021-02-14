@@ -25,5 +25,5 @@ User Defined Functions 4:
 
 User Defined Functions 5:
 
-!. Creates an array. Takes input number from user. Finds it in array. Gives its location. Gives its count. Replaces the number with its squareroot.
+!. Creates an array. Takes input number from user. Finds it in array. Gives its location. Gives its count. Replaces the number with its squareroot. 
 2. Takes two 2-dimentional arrays and merges them with increasing order of numbers.
