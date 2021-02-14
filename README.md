@@ -22,3 +22,8 @@ User Defined Functions 4:
 1. Creates an upper trangle of stars(*).
 2. Creates a pyramid of stars(*).
 3. Identify the given sentence is a question or a general statement.
+
+User Defined Functions 5:
+
+!. Creates an array. Takes input number from user. Finds it in array. Gives its location. Gives its count. Replaces the number with its squareroot.
+2. Takes two 2-dimentional arrays and merges them with increasing order of numbers.
