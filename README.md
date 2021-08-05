@@ -27,3 +27,7 @@ v] User Defined Functions 5:
 
 1. Creates an array. Takes input number from user. Finds it in array. Gives its location. Gives its count. Replaces the number with its squareroot. 
 2. Takes two 2-dimentional arrays and merges them with increasing order of numbers.
+
+vi] Table Maker:
+
+This function takes attribute names and number of unique values in each attribute from user. Then returns a table showing possible combinations of each variable. This table is very usefull for Data Simulation.
