@@ -19,7 +19,7 @@ iii] User Defined Functions 3:
 
 iv] User Defined Functions 4:
 
-1. Creates an upper trangle of stars(*).
+1. Creates an upper triangle of stars(*).
 2. Creates a pyramid of stars(*).
 3. Identify the given sentence is a question or a general statement.
 
