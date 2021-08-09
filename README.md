@@ -15,7 +15,7 @@ ii] User Defined Functions 2:
 iii] User Defined Functions 3:
 
 1. This Function Creates Your Resume
-2. This Function Multiplies Two Number With A SIngle Input.
+2. This Function Multiplies Two Number With A Single Input.
 
 iv] User Defined Functions 4:
 
