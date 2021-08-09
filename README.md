@@ -1,7 +1,7 @@
 # User Defined Functions
 i] User Defined Functions 1:
 
-1. Works as a calculator for two numbers.
+1. Works As A Calculator For Two Numbers.
 2. Calculates Addition, Subtraction, Multiplication, Division for list of numbers.
 3. Calculates Distance, Speed and Time.
 
